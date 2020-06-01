@@ -1,8 +1,9 @@
 <html>
   <head>
-     <h1> Git Hub </h1>
+     <title>  </title>
       <body>
-          Git was an open source Distributed version control system
+         <h1> Git was an open source Distributed version control system </h1>
+		 <h2> Git and Git hub </h2>
        </body>
     </head>
   </html>	

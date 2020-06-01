@@ -1,8 +1,9 @@
 <html>
 <head>
-  <h1> Git Project  </h1>
+  <title>  </title>
    <body>
-      welcome to git meeting
+     <h1> welcome to git meeting</h1>
+	 <h2> Git and Git Hub </h2>
 	</body>
  </head>
 </html> 
